@@ -7,7 +7,6 @@ import ru.kata_academy.pre_project.ProjectSpringBoot.dao.UserDao;
 import ru.kata_academy.pre_project.ProjectSpringBoot.model.User;
 import ru.kata_academy.pre_project.ProjectSpringBoot.repositories.UserRepository;
 
-
 import java.util.List;
 
 @Service
