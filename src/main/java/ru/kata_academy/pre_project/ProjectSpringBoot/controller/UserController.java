@@ -8,7 +8,6 @@ import ru.kata_academy.pre_project.ProjectSpringBoot.model.User;
 import ru.kata_academy.pre_project.ProjectSpringBoot.service.UserService;
 
 
-
 @Controller
 @RequestMapping("/users")
 public class UserController {
