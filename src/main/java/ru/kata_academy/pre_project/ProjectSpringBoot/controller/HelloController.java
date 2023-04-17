@@ -8,7 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Controller
-public class HelloController {
+public class
+HelloController {
 
 	@GetMapping(value = "/hello")
 	public String printWelcome(ModelMap model) {

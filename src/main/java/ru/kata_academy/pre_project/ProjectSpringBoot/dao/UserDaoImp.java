@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import ru.kata_academy.pre_project.ProjectSpringBoot.model.User;
 
+
 import java.util.List;
 
 @Repository

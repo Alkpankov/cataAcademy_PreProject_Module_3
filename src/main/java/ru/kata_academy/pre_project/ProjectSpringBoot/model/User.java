@@ -3,6 +3,7 @@ package ru.kata_academy.pre_project.ProjectSpringBoot.model;
 
 import jakarta.persistence.*;
 
+
 @Entity
 @Table(name = "users")
 public class User {

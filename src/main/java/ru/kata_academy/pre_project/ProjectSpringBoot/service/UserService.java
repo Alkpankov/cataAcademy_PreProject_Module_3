@@ -3,6 +3,7 @@ package ru.kata_academy.pre_project.ProjectSpringBoot.service;
 
 import ru.kata_academy.pre_project.ProjectSpringBoot.model.User;
 
+
 import java.util.List;
 
 public interface UserService {
